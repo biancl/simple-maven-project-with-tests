@@ -19,7 +19,7 @@
        <activeByDefault>true</activeByDefault>
    </activation>
    <properties>
-       <sonar.host.url>http://10.3.9.6:8007</sonar.host.url>
+       <sonar.host.url>http://10.3.9.13:8007</sonar.host.url>
    </properties>
 </profile>
 </profiles>
